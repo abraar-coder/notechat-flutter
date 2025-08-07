@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14297823681",
+    "project_id": "notechat-b4ce1",
+    "storage_bucket": "notechat-b4ce1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14297823681:android:2bf636d22e704efa461740",
+        "android_client_info": {
+          "package_name": "com.azcoder.notechat.note_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv3nFAJgYiuS5H-rxaPNMiNJGJvFRyHeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
