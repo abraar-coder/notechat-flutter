@@ -1,4 +1,3 @@
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:note_chat/core/services/firebase_auth_service.dart';
 import 'package:note_chat/core/validators/auth_validators.dart';
