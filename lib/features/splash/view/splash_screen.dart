@@ -4,7 +4,6 @@ import 'package:note_chat/core/theme/app_spacing.dart';
 import 'package:note_chat/core/theme/app_text_styles.dart';
 import 'package:note_chat/shared/widgets/shimmer_icon.dart';
 import 'package:note_chat/shared/widgets/shimmer_text.dart';
-import 'package:shimmer/shimmer.dart';
 
 class SplashScreen extends StatelessWidget {
   const SplashScreen({super.key});
