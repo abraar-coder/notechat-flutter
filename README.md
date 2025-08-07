@@ -4,13 +4,24 @@ A Flutter app for note-taking and chatting with Firebase backend
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# 📝 NoteChat - Flutter Notes + Chat App
 
-A few resources to get you started if this is your first Flutter project:
+This app lets users:
+- Sign up / Sign in / Anonymous login
+- Create, edit, delete notes
+- Upload images in notes
+- Chat with other users (real-time)
+- Light/dark theme
+- Offline support
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Tech Used
+- Flutter + Dart
+- Firebase Auth, Firestore, Storage
+- Riverpod (State Management)
+- Google Fonts + Material 3
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+```bash
+flutter pub get
+flutter run
+
